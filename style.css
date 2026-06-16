@@ -1,0 +1,21 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(to bottom, darkorchid, indigo);
+  color: white;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+p {
+  max-width: 800px;
+  margin: auto;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+img {
+  width: 300px;
+  margin: 10px;
+  border-radius: 10px;
+}
